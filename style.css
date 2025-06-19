@@ -253,7 +253,7 @@ header{
 }
 .one{
     width: 600px;
-    display: flexbox;
+     text-align: left;
 }
 .two{
     margin-top: 20px;
@@ -282,7 +282,7 @@ header{
     border-radius: 10px;
     color: white;
     margin-top: 30px;
-    margin-left: -400px;
+    margin-left: 10px;
 }
 .main-footer{
     display: flex;
@@ -374,4 +374,9 @@ footer{
     font-size: 10%;
    }
    
+}
+@media only screen and (max-widht:320px){
+   .header-content h1{
+    font-size: 24px;
+   }
 }
