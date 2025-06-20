@@ -215,7 +215,7 @@ header{
 }
 .world h2{
     margin-top: 130px;
-    margin-left: 35px;
+    margin-left: 30px;
     color: white;
     font-size: 50px;
     text-shadow: 3px 2px 2px  black;
@@ -225,7 +225,7 @@ header{
     text-shadow: 3px 3px 3px white;
 }
 .world p{
-    margin-left: 35px;
+    margin-left: 30px;
     margin-top: 13px;
     text-shadow: 2px 2px 2px white;
 }
@@ -236,7 +236,7 @@ header{
     padding: 8px;
     width: 120px;
     color: white;
-    margin-left: 35px;
+    margin-left: 30px;
     margin-top: 20px;
 }
 .world button:hover{
